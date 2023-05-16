@@ -1,0 +1,96 @@
+                                                                   Flujo de caja
+                                                                     Detalles
+     N° Caja: 5641                                                                                                           Sucursal: CIEE (109487)
+
+
+
+
+       Apertura: 15:39 27/02/2023                                         Operador responsable: JONATHAN
+
+       Cierre:      19:17 27/02/2023                                                Printed: 27/02/2023 07:18:03 p. m.
+
+
+
+
+Recaudación                                                               Otros Ingresos
+             Categoría                    Cantidad       Importe                           Categoría                       Hora
+Carga crédito anónimo                                1        $20.00                                 Total
+Escaneos                                             8        $40.00      Otros Egresos
+Impresiones BN                                      39        $78.00                       Categoría                       Hora
+Impresiones color                                  163       $504.00
+                                                                                                     Total
+Productos                                          107       $337.00
+Uso PC Anónimo                                      18       $107.50
+              Recaudación total                           
+$1,086.50
+
+
+
+
+Recaudación                                $1,086.50     Retiros de caja                                                 $1.00
+Otros Ingresos                                 $0.00     Otros Egresos                                                   $0.00
+Descuadre                                ($1,086.50)     Caja Final                                                      $0.00
+Caja inicial                                   $1.00     Total Egresos                                                   $1.00
+Total Ingresos                                $1.00
+
+Resumen de productos y servicios vendidos
+
+                                                                      Productos
+                                                                                             Cantidad
+      Categoría                          Detalle                                                                                        Importe (Efectivo)
+                                                                    Efectivo          Crédito           Puntos             Total
+JONATHAN                 clip chico - jonathan                                 1                 0                0                1                  $1.00
+JONATHAN                 clip grande - jonathan                                2                 0                0                2                  $4.00
+JONATHAN                 copia carta - jonathan                                31                0                0                31                $62.00
+JONATHAN                 copia credencial - jonathan                           8                 0                0                8                 $24.00
+JONATHAN                 copia oficio - jonathan                               12                0                0                12                $24.00
+JONATHAN                 folder carta - jonathan                               3                 0                0                3                 $12.00
+JONATHAN                 hoja color - jonathan                                 3                 0                0                3                  $6.00
+JONATHAN                 hoja para trabajo                                     10                0                0                10                $10.00
+JONATHAN                 mica carta - jonathan                                 1                 0                0                1                 $20.00
+JONATHAN                 mica chica -jonathan                                  2                 0                0                2                 $16.00
+JONATHAN                 tramite general - jonathan                            3                 0                0                3                 $27.00
+JONATHAN                 tramite sencillo - jonathan                           21                0                0                21               $105.00
+JONATHAN                 tramite tareas - jonathan                             6                 0                0                6                  $0.00
+                             Total                                        103                   0                 0              103              $311.00
+                                                                                             Cantidad
+      Categoría                          Detalle                                                                                        Importe (Efectivo)
+                                                                    Efectivo          Crédito           Puntos             Total
+KASSANDRA                pluma ultra fina kass                                 1                 0                0                1                 $14.00
+
+
+
+                                                                                                                                                      1/2
+          N° Caja: 5641                                                                                                                                                Sucursal: CIEE (109487)
+
+
+
+
+             Apertura: 15:39 27/02/2023                                                                        Operador responsable: JONATHAN
+
+             Cierre:               19:17 27/02/2023                                                                      Printed: 27/02/2023 07:18:03 p. m.
+
+
+
+
+KASSANDRA                             tramite tarea                                                                2                        0                    0           2                 $0.00
+                                             Total                                                                 3                       0                     0           3               $14.00
+                                                                                                                                       Cantidad
+          Categoría                                      Detalle                                                                                                                 Importe (Efectivo)
+                                                                                                      Efectivo               Crédito                  Puntos         Total
+PARA TODOS                            cartulina colores                                                            1                        0                    0           1                $12.00
+                                             Total                                                                 1                       0                     0           1               $12.00
+
+
+
+
+Eventos de sistema
+15:34   El Operador inició sesión en PC Server        17:07   Se Inició CyberPlanet                              19:17   El Operador Cerro sesión en PC Server
+15:39   Se abrió una nueva caja                       17:07   El último cierre de CyberPlanet fue incorrecto     19:17   Se cerró la caja
+                                                              (Corte de luz, etc)
+
+
+
+
+                                                                                                                                                                                               2/2
+

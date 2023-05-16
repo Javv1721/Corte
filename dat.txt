@@ -1,0 +1,227 @@
+Link to Function Tab
+Link to KONICA MINOLTA logo website
+Link to product logo PageScopeWebConnection About informationModel Name:bizhub C227 PublicManual
+ 	Ready to Scan	 	
+ 	Ready to Print	 	
+ RefreshFunction TabLink to Submenu
+InformationInformation	JobJob	BoxBox	Direct PrintDirect Print	Store AddressStore Address	Favorite SettingFavorite SettingCustomize
+Submenu
+Link to Contents
+
+Device Information
+
+Device Status
+
+Device Configuration
+
+Consumables
+
+Meter Count
+
+Eco Info
+
+Authorization function list display
+
+Online Assistance
+
+Network Setting Information
+
+Print Setting Information
+
+Print Information
+
+Distribution File Download
+ContentsLink to Page End
+Total Counter 
+Total	
+223902
+Total Duplex	
+22526
+Duplex Rate	
+11.276
+# of Originals	
+233472
+Paper Counter	
+199777
+No. of Total Pages Output	
+222303
+Paper Size Counter
+A3	
+52
+A4	
+1115
+B4	
+1980
+B5	
+0
+5 1/2 x 8 1/2	
+46
+8 1/2 x 11	
+188399
+8 1/2 x 14	
+1997
+11 x 17	
+1471
+Banner	
+0
+Other	
+4717
+Paper Type Counter
+Plain Paper	
+199621
+SGL SIDE ONLY	
+0
+User Paper 1	
+0
+Other	
+156
+Total Counter
+2in1	
+1316
+4in1	
+9601
+Other	
+1
+Total Print Rate	
+5.465
+Copy Counter 
+Copy		Total	Large Size
+Total	
+67569
+181
+Black	
+65760
+139
+Full Color	
+1775
+41
+Single Color	
+12
+1
+2 Color	
+22
+0
+Print Counter 
+Print		Total	Large Size	Banner
+Total	
+156333
+1418
+-
+Black	
+42887
+425
+0
+Full Color	
+113446
+993
+0
+2 Color	
+0
+0
+-
+Single Color + 2 Color	
+-
+-
+0
+Total (Copy + Print) 
+Total
+(Copy + Print)	Total	
+223902
+Black	
+108647
+Full Color	
+115221
+Single Color	
+12
+2 Color	
+22
+No. of Prints
+(Copy + Print)
+Black	
+96632
+Full Color	
+103112
+Single Color + 2 Color	
+33
+Paper Size Counter
+(Copy + Print)		Black	Full Color	Single Color + 2 Color
+A3	
+32
+20
+0
+A4	
+465
+650
+0
+B4	
+143
+1837
+0
+B5	
+0
+0
+0
+5 1/2 x 8 1/2	
+35
+11
+0
+8 1/2 x 11	
+90816
+97556
+27
+8 1/2 x 14	
+254
+1738
+5
+11 x 17	
+511
+959
+1
+Banner	
+0
+0
+0
+Other	
+4376
+341
+0
+Scan Counter 
+Scan		Total
+Large Size
+Black	
+0
+0
+Full Color	
+0
+0
+Scans	
+15185
+75
+No. of DOCX TX Originals(Without OCR)	
+0
+No. of DOCX TX Originals(With OCR)	
+0
+No. of XLSX TX Originals(Without OCR)	
+0
+No. of XLSX TX Originals(With OCR)	
+0
+No. of PPTX TX Originals(Without OCR)	
+0
+No. of PPTX TX Originals(With OCR)	
+0
+Network Fax TX Counter (Black)	
+0
+Network Fax TX Counter (Color)	
+0
+Scan TX Counter (Black)	
+9746
+Scan TX Counter (Color)	
+4919
+Total by Color 
+Total	
+223902
+Black	
+108647
+Color	
+115255
+Page End
